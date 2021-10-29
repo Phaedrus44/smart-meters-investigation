@@ -60,7 +60,7 @@ https://www.kaggle.com/tomneeld/dashboards-and-clustering
 https://www.kaggle.com/rheajgurung/energy-consumption-forecast
 
 
-# Installs;
+# Installs / Pachages;
 
 
 ![Screenshot 2021-10-29 at 15 59 35](https://user-images.githubusercontent.com/82510260/139457735-87b2d91b-053b-4920-97d1-e1f0465850e3.png)
