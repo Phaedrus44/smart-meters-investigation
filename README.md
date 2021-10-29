@@ -56,7 +56,11 @@ Medium post: https://medium.com/@Phaedrus44/can-domestic-electricity-smart-meter
 
 # Acknowledgements
 Took some ideas from following notebooks;
-
 https://www.kaggle.com/tomneeld/dashboards-and-clustering
-
 https://www.kaggle.com/rheajgurung/energy-consumption-forecast
+
+
+# Installs;
+
+
+![Screenshot 2021-10-29 at 15 59 35](https://user-images.githubusercontent.com/82510260/139457735-87b2d91b-053b-4920-97d1-e1f0465850e3.png)
